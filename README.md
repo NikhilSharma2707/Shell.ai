@@ -4,7 +4,7 @@
 
 Working on the problem given by [Shell](https://www.shell.in/) in the Shell.ai Hackathon 2024.
 
-## Author
+## Authors
 
 - [Nikhil Sharma](https://github.com/NikhilSharma2707)
 - [Manish Kumar](https://github.com/its-manishks)
